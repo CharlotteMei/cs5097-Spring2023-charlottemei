@@ -1,0 +1,15 @@
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.csproj.AssemblyReference.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.AssemblyInfoInputs.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.AssemblyInfo.cs
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.csproj.CoreCompileInputs.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/bin/Debug/net7.0/BasicCSTutorial
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/bin/Debug/net7.0/BasicCSTutorial.deps.json
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/bin/Debug/net7.0/BasicCSTutorial.runtimeconfig.json
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/bin/Debug/net7.0/BasicCSTutorial.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/bin/Debug/net7.0/BasicCSTutorial.pdb
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/refint/BasicCSTutorial.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.pdb
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/BasicCSTutorial.genruntimeconfig.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/BasicCSTutorial/obj/Debug/net7.0/ref/BasicCSTutorial.dll
