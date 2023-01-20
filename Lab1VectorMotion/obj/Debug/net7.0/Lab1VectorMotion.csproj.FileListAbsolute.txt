@@ -1,0 +1,15 @@
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.csproj.AssemblyReference.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.AssemblyInfoInputs.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.AssemblyInfo.cs
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.csproj.CoreCompileInputs.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/bin/Debug/net7.0/Lab1VectorMotion
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/bin/Debug/net7.0/Lab1VectorMotion.deps.json
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/bin/Debug/net7.0/Lab1VectorMotion.runtimeconfig.json
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/bin/Debug/net7.0/Lab1VectorMotion.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/bin/Debug/net7.0/Lab1VectorMotion.pdb
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/refint/Lab1VectorMotion.dll
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.pdb
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/Lab1VectorMotion.genruntimeconfig.cache
+/Users/charlottemei/dev/neu/23sp/cs5097-Spring2023-charlottemei/Lab1VectorMotion/obj/Debug/net7.0/ref/Lab1VectorMotion.dll
